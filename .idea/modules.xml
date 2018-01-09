@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MultipleClassesBusLab.iml" filepath="$PROJECT_DIR$/.idea/modules/MultipleClassesBusLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MultipleClassesBusLab_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MultipleClassesBusLab_main.iml" group="MultipleClassesBusLab" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MultipleClassesBusLab_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MultipleClassesBusLab_test.iml" group="MultipleClassesBusLab" />
+    </modules>
+  </component>
+</project>
